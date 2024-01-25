@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0 auto;
+    background: url("../Pictures/image4.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    backdrop-filter: blur(7px);
+    padding: 20px;
+}
+  
+.timetable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+  
+.timetable th, .timetable td {
+    border: 1px solid #aab2b6;
+    padding: 8px;
+    text-align: left;
+}
+  
+.timetable th {
+    background-color:  #8c989e;
+    color: #000;
+}
+
+
+  h1 {
+    color: #36352b;
+  }
+
+  p {
+    text-align: justify;
+  }
+  
