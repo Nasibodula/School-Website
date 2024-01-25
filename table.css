@@ -2,7 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
     margin: 0 auto;
-    background: url("../Pictures/image4.png");
+    background: url("image4.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
